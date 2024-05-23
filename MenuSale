@@ -1,0 +1,254 @@
+#include <iostream>
+#include <string.h>
+#define MAX_STRING 255
+
+using namespace std;
+const string mainMenu =
+    (string) "Quan ly hang hoa\n" + "1. Nhap du lieu hang hoa.\n" +
+    "2. Them 1 mat hang vao danh sach.\n" +
+    "3. Xoa 1 mat hang ra khoi danh sach.\n" +
+    "4. Cap nhat thong tin cho 1 hang hoa.\n" + "5. Xem danh sach hang hoa.\n" +
+    "0. Thoat khoi chuong trinh.\n" + "Nhap lua chon cua ban: ";
+
+const string subMenu = (string) "Chinh sua:\n" + "1. Ma hang hoa.\n" +
+                       "2. So luong co trong kho cua hang hoa.\n" +
+                       "3. Chinh sua gia cua hang hoa.\n" +
+                       "0. Quay lai menu chinh.\n" + "Nhap lua chon cua ban: ";
+
+struct HANGHOA{
+    char maHangHoa[MAX_STRING];
+    int soLuong;
+    float gia;
+};
+
+struct NODE{
+    HANGHOA data;
+    NODE *next;
+};
+
+struct LIST{
+    NODE *dau;
+    NODE *cuoi;
+};
+
+void createList(LIST &list) 
+{
+	 list.dau = list.cuoi = NULL;
+	}
+
+bool Empty(LIST list) 
+{
+	return list.dau; 
+}
+
+NODE *createNODE(HANGHOA x) 
+{
+    NODE *p = new NODE;
+    p->data = x;
+    p->next = NULL;
+    return p;
+}
+
+NODE *findNODE(LIST list, char *x) 
+{
+    for (NODE *p = list.dau; p; p = p->next)
+        if (strcmp(p->data.maHangHoa, x) == 0)
+            return p;
+    return NULL;
+}
+
+void nhapHangHoa(HANGHOA &x) 
+{
+    cout << "Nhap ma hang hoa: ";
+    cin.getline(x.maHangHoa, MAX_STRING);
+    cout << "Nhap so luong co trong kho: ";
+    cin >> x.soLuong;
+    cout << "Nhap gia cua hang hoa: ";
+    cin >> x.gia;
+}
+
+void addTail(LIST &list, NODE *p) 
+{
+    if (!list.dau)
+        list.dau = list.cuoi = p;
+    else {
+        list.cuoi->next = p;
+        list.cuoi = p;
+    }
+}
+
+void nhapList(LIST &list) 
+{
+    int x = 0;
+    HANGHOA temp;
+    while (true) 
+	{
+        nhapHangHoa(temp);
+        if (!findNODE(list, temp.maHangHoa))
+            addTail(list, createNODE(temp));
+        else
+        	cout << "Ma hang hoa bi trung!\n";
+    	cout << "Nhap 1 de tiep tuc, 0 de dung: ";
+    	cin >> x;
+        cin.ignore();
+        if (!x)
+            break;
+    }
+}
+
+void xuatMaHangHoa(LIST list) 
+{
+    for (NODE *p = list.dau; p; p = p->next)
+        cout << p->data.maHangHoa << '\t';
+    cout << '\n';
+}
+
+void xuatHangHoa(HANGHOA x) {
+    cout << "Ma hang hoa: " << x.maHangHoa
+         << "\nSo luong co trong kho: " << x.soLuong << "\nGia: " << x.gia
+         << "\n";
+}
+
+void xuatList(LIST list) 
+{
+    for (NODE *p = list.dau; p; p = p->next)
+        xuatHangHoa(p->data);
+}
+
+
+int printAndGetMenuItem(const string menu) 
+{
+    int temp = 0;
+    cout << menu;
+    cin >> temp;
+    cin.ignore();
+    return temp;
+}
+
+void deleteNODE(LIST &list, NODE *x) {
+    NODE *q = NULL;
+    for (NODE *p = list.dau; p; p = p->next) {
+        if (p == x) {
+            if (p == list.dau) {
+                list.dau = p->next;
+                delete p;
+                return;
+            }
+            if (p == list.cuoi) {
+                list.cuoi = q;
+                q->next = NULL;
+                delete p;
+                return;
+            }
+            q->next = p->next;
+            delete p;
+            return;
+        } else
+            q = p;
+    }
+}
+
+void editNODE(NODE *&x, LIST list) {
+    int choice = printAndGetMenuItem(subMenu);
+    char cbuffer[MAX_STRING];
+    int ibuffer = 0;
+    float fbuffer = .0f;
+    switch (choice) {
+    case 1:
+        cout << "Nhap ma hang hoa moi: ";
+        cin.getline(cbuffer, MAX_STRING);
+        if (!findNODE(list, cbuffer))
+            memcpy(x->data.maHangHoa, cbuffer, MAX_STRING);
+        else
+            cout << "Ma hang hoa bi trung!\n";
+        break;
+    case 2:
+        cout << "Nhap so luong moi: ";
+        cin >> ibuffer;
+        x->data.soLuong = ibuffer;
+        break;
+    case 3:
+        cout << "Nhap gia moi: ";
+        cin >> fbuffer;
+        x->data.gia = fbuffer;
+        break;
+    default:
+        break;
+    }
+}
+
+int main() 
+{
+    LIST danhSachHangHoa;
+    createList(danhSachHangHoa);
+    cout << "Chua co danh sach hang hoa, vui long nhap!\n";
+    nhapList(danhSachHangHoa);
+    int choice;
+    char dummy[MAX_STRING];
+    while (true) 
+	{
+        choice = printAndGetMenuItem(mainMenu);
+        switch (choice) 
+		{
+        	case 1:
+            	nhapList(danhSachHangHoa);
+            	break;
+
+        	case 2: 
+			{
+            	HANGHOA temp;
+            	xuatMaHangHoa(danhSachHangHoa);
+            	nhapHangHoa(temp);
+            	if (!findNODE(danhSachHangHoa, temp.maHangHoa))
+                	addTail(danhSachHangHoa, createNODE(temp));
+            	else {
+                	cout << "Ma hang hoa bi trung!\n";
+                	cin.ignore();
+            }
+            break;
+        }
+        	case 3: 
+			{
+            	char buffer[MAX_STRING];
+            	xuatMaHangHoa(danhSachHangHoa);
+            	cout << "Nhap ma hang hoa can xoa: ";
+            	cin.getline(buffer, MAX_STRING);
+            	NODE *temp = findNODE(danhSachHangHoa, buffer);
+            	if (!temp)
+               		cout << "Khong tim thay hang hoa!\n";
+            	else
+                	deleteNODE(danhSachHangHoa, temp);
+            	break;
+       		}
+
+        	case 4: 
+			{
+            	char buffer[MAX_STRING];
+            	xuatMaHangHoa(danhSachHangHoa);
+            	cout << "Nhap ma hang hoa chinh sua: ";
+            	cin.getline(buffer, MAX_STRING);
+            	NODE *temp = findNODE(danhSachHangHoa, buffer);
+            	if (!temp)
+            	    cout << "Khong tim thay hang hoa!\n";
+            	else
+                	editNODE(temp, danhSachHangHoa);
+            	break;
+        	}
+
+        	case 5:
+            	xuatList(danhSachHangHoa);
+            	break;
+
+        	case 0:
+            	return 0;
+            	break;
+
+        	default:
+            	cout << "Nhap sai!\n";
+            	break;
+       		}
+        	cout << "Nhap bat ky de tiep tuc!";
+        	cin.getline(dummy, MAX_STRING);
+    	}
+    	return 0;
+}
