@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## WELCOME TO MY PAGE 👋👋👋
+My name is Vo Ngoc Thanh. I graduated from Ton Duc Thang University, majoring in Mathematics Applied. I am interested in the following topics:
 <!--
 **theng23/theng23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
