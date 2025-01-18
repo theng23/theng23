@@ -9,23 +9,18 @@ My name is Vo Ngoc Thanh. I graduated from Ton Duc Thang University, majoring in
 
 
 ## Featured Projects
-<!--
+
 ### Project 1: Ecommerce-Exploring
-- **Description:** An in-depth analysis of sales data using SQL base on BigQuey to write and execute queries to find the desired data
+- **Description:** An in-depth analysis of sales data using SQL base on BigQuery to write and execute queries to find the desired data
 - **Technologies:** SQL, BigQuery
-- **Link:** [Ecommerce-Project](https://github.com/theng23/Ecommerce-Project)
--->
 
-<a href="https://github.com/theng23/Ecommerce-Project">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=theng23&repo=Ecommerce-Project" />
-</a>    
-<a href="https://github.com/theng23/Phone_Sales">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=theng23&repo=Phone_Sales" />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Ecommerce-Project)](https://github.com/theng23/Ecommerce-Project)
 
+### Project 2: Phone Sale Exploring
+- **Description:** In-depth analysis of sales data of product and accessory brands by querying in SQL.
+- **Technologies:** SQL
 
-  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Phone_Sales)](https://github.com/theng23/Phone_Sales)
 <!--
 ### Project 2: Web Development with React
 - **Description:** A responsive web application built with React and Redux.
