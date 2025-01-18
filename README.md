@@ -15,7 +15,7 @@ My name is Vo Ngoc Thanh. I graduated from Ton Duc Thang University, majoring in
 - **Link:** [Ecommerce-Project](https://github.com/theng23/Ecommerce-Project)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/theng23/Ecommerce-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Ecommerce-Project)](https://github.com/theng23/Ecommerce-Project)
 
 
 
