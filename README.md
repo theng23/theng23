@@ -20,7 +20,7 @@ My name is Vo Ngoc Thanh. I graduated from Ton Duc Thang University, majoring in
 - **Description:** In-depth analysis of sales data of product and accessory brands by querying in SQL.
 - **Technologies:** SQL
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Phone_Sales)](https://github.com/theng23/Phone_Sales)
 
 
 <!--
