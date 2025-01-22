@@ -22,7 +22,11 @@ My name is Vo Ngoc Thanh. I graduated from Ton Duc Thang University, majoring in
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Phone_Sales)](https://github.com/theng23/Phone_Sales)
 
-
+### Project 3: Analyze Behavior of User
+- **Description:** Discover User Behavior From Traffic Channels by using Python on GoogleColab to evaluate and analyze behavior of user for Financial and Stock company.
+- **Technologies:** Python, GoogleColab
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Discover-User-Behavior-From-Traffic-Channels)](https://github.com/theng23/Discover-User-Behavior-From-Traffic-Channels)
 <!--
 ### Project 2: Web Development with React
 - **Description:** A responsive web application built with React and Redux.
