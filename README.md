@@ -1,7 +1,7 @@
 ## WELCOME TO MY PAGE 👋👋👋
 My name is Vo Ngoc Thanh. I graduated from Ton Duc Thang University, majoring in Mathematics Applied. I am interested in database and find the value from there. There are some kind of topic I following topics:
 ## 📫 How to reach me:
-[vothanh023@gmail.com](mailto:vothanh023@gmail.com)
+Gmail:  [vothanh023@gmail.com](mailto:vothanh023@gmail.com)
 
 
 
