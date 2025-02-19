@@ -10,19 +10,26 @@ Gmail:  [vothanh023@gmail.com](mailto:vothanh023@gmail.com)
 
 ## Featured Projects
 
-### Project 1: Ecommerce-Exploring
+### Project 1: Global Superstore Sales
+- **Description:** Senior manager wants to grasp information about the company's business situation to devise a market expansion strategy and decide on strategic product selection.
+- **Technologies:** Power BI
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Global-Superstore-Sales)](https://github.com/theng23/Global-Superstore-Sales)
+
+
+### Project 2: Ecommerce-Exploring
 - **Description:** An in-depth analysis of sales data using SQL base on BigQuery to write and execute queries to find the desired data
 - **Technologies:** SQL, BigQuery
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Ecommerce-Project)](https://github.com/theng23/Ecommerce-Project)
 
-### Project 2: Phone Sale Exploring
+### Project 3: Phone Sale Exploring
 - **Description:** In-depth analysis of sales data of product and accessory brands by querying in SQL.
 - **Technologies:** SQL
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Phone_Sales)](https://github.com/theng23/Phone_Sales)
 
-### Project 3: Analyze Behavior of User
+### Project 4: Analyze Behavior of User
 - **Description:** Discover User Behavior From Traffic Channels by using Python on GoogleColab to evaluate and analyze behavior of user for Financial and Stock company.
 - **Technologies:** Python, GoogleColab
   
