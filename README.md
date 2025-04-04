@@ -17,7 +17,7 @@ Gmail:  [vothanh023@gmail.com](mailto:vothanh023@gmail.com)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Global-Superstore-Sales)](https://github.com/theng23/Global-Superstore-Sales)
 
 
-### Project 2: Ecommerce-Exploring
+### Project 2: Ecommerce-Project
 - **Description:** An in-depth analysis of sales data using SQL base on BigQuery to write and execute queries to find the desired data
 - **Technologies:** SQL, BigQuery
 
