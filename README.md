@@ -29,14 +29,14 @@ Gmail:  [vothanh023@gmail.com](mailto:vothanh023@gmail.com)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Phone_Sales)](https://github.com/theng23/Phone_Sales)
 
-### Project 4: Analyze Behavior of User
-- **Description:** Discover User Behavior From Traffic Channels by using Python on GoogleColab to evaluate and analyze behavior of user for Financial and Stock company.
+### Project 4: Python_RFM_Analysis-Customer-segmentation
+- **Description:** Utilize the RFM model to segment customers and propose marketing campaigns.
 - **Technologies:** Python, GoogleColab
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Python_RFM_Analysis-Customer-segmentation)](https://github.com/theng23/Python_RFM_Analysis-Customer-segmentation)
 
-### Project 5: Python_RFM_Analysis-Customer-segmentation
-- **Description:** Utilize the RFM model to segment customers and propose marketing campaigns.
+### Project 5: Analyze Behavior of User
+- **Description:** Discover User Behavior From Traffic Channels by using Python on GoogleColab to evaluate and analyze behavior of user for Financial and Stock company.
 - **Technologies:** Python, GoogleColab
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Discover-User-Behavior-From-Traffic-Channels)](https://github.com/theng23/Discover-User-Behavior-From-Traffic-Channels)
