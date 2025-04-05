@@ -21,7 +21,7 @@ Gmail:  [vothanh023@gmail.com](mailto:vothanh023@gmail.com)
 - **Description:** The management expects that the goods ordered are sufficient for sales, on time, and at optimal import prices.
 - **Technologies:** Power BI
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Purchasing_PBI)](https://https://github.com/theng23/Purchasing_PBI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Purchasing_PBI)](https://github.com/theng23/Purchasing_PBI)
 
 ### Project 3: Ecommerce-Project
 - **Description:** An in-depth analysis of sales data using SQL base on BigQuery to write and execute queries to find the desired data
