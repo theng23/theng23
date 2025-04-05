@@ -17,25 +17,31 @@ Gmail:  [vothanh023@gmail.com](mailto:vothanh023@gmail.com)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Global-Superstore-Sales)](https://github.com/theng23/Global-Superstore-Sales)
 
 
-### Project 2: Ecommerce-Project
+### Project 2: Purchasing
+- **Description:** The management expects that the goods ordered are sufficient for sales, on time, and at optimal import prices.
+- **Technologies:** Power BI
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Purchasing_PBI)](https://https://github.com/theng23/Purchasing_PBI)
+
+### Project 3: Ecommerce-Project
 - **Description:** An in-depth analysis of sales data using SQL base on BigQuery to write and execute queries to find the desired data
 - **Technologies:** SQL, BigQuery
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Ecommerce-Project)](https://github.com/theng23/Ecommerce-Project)
 
-### Project 3: Phone Sale Exploring
+### Project 4: Phone Sale Exploring
 - **Description:** In-depth analysis of sales data of product and accessory brands by querying in SQL.
 - **Technologies:** SQL
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Phone_Sales)](https://github.com/theng23/Phone_Sales)
 
-### Project 4: Python_RFM_Analysis-Customer-segmentation
+### Project 5: Python_RFM_Analysis-Customer-segmentation
 - **Description:** Utilize the RFM model to segment customers and propose marketing campaigns.
 - **Technologies:** Python, GoogleColab
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Python_RFM_Analysis-Customer-segmentation)](https://github.com/theng23/Python_RFM_Analysis-Customer-segmentation)
 
-### Project 5: Analyze Behavior of User
+### Project 6: Analyze Behavior of User
 - **Description:** Discover User Behavior From Traffic Channels by using Python on GoogleColab to evaluate and analyze behavior of user for Financial and Stock company.
 - **Technologies:** Python, GoogleColab
   
