@@ -41,7 +41,13 @@ Gmail:  [vothanh023@gmail.com](mailto:vothanh023@gmail.com)
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Python_RFM_Analysis-Customer-segmentation)](https://github.com/theng23/Python_RFM_Analysis-Customer-segmentation)
 
-### Project 6: Analyze Behavior of User
+### Project 6: Data_Wrangling
+- **Description:** Utilize the Python to analyze context of Ewallet.
+- **Technologies:** Python, GoogleColab
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Data_Wrangling)](https://github.com/theng23/Data_Wrangling)
+
+### Project 7: Analyze Behavior of User
 - **Description:** Discover User Behavior From Traffic Channels by using Python on GoogleColab to evaluate and analyze behavior of user for Financial and Stock company.
 - **Technologies:** Python, GoogleColab
   
