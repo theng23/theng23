@@ -35,7 +35,7 @@ Gmail:  [vothanh023@gmail.com](mailto:vothanh023@gmail.com)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Phone_Sales)](https://github.com/theng23/Phone_Sales)
 
-### Project 5: Python_RFM_Analysis-Customer-segmentation
+### Project 5: RFM-Customer-Segmentation
 - **Description:** Utilize the RFM model to segment customers and propose marketing campaigns.
 - **Technologies:** Python, GoogleColab
   
