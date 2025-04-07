@@ -21,7 +21,7 @@ Gmail:  [vothanh023@gmail.com](mailto:vothanh023@gmail.com)
 - **Description:** The management expects that the goods ordered are sufficient for sales, on time, and at optimal import prices.
 - **Technologies:** Power BI
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Purchasing_PBI)](https://github.com/theng23/Purchasing_PBI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Purchasing)](https://github.com/theng23/Purchasing)
 
 ### Project 3: Ecommerce-Project
 - **Description:** An in-depth analysis of sales data using SQL base on BigQuery to write and execute queries to find the desired data
@@ -29,7 +29,7 @@ Gmail:  [vothanh023@gmail.com](mailto:vothanh023@gmail.com)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Ecommerce-Project)](https://github.com/theng23/Ecommerce-Project)
 
-### Project 4: Phone Sale Exploring
+### Project 4: Phone Sales
 - **Description:** In-depth analysis of sales data of product and accessory brands by querying in SQL.
 - **Technologies:** SQL
 
@@ -39,7 +39,7 @@ Gmail:  [vothanh023@gmail.com](mailto:vothanh023@gmail.com)
 - **Description:** Utilize the RFM model to segment customers and propose marketing campaigns.
 - **Technologies:** Python, GoogleColab
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Python_RFM_Analysis-Customer-segmentation)](https://github.com/theng23/Python_RFM_Analysis-Customer-segmentation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=RFM-Customer-Segmentation)](https://github.com/theng23/RFM-Customer-Segmentation)
 
 ### Project 6: Data_Wrangling
 - **Description:** Utilize the Python to analyze context of Ewallet.
@@ -47,7 +47,7 @@ Gmail:  [vothanh023@gmail.com](mailto:vothanh023@gmail.com)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Data_Wrangling)](https://github.com/theng23/Data_Wrangling)
 
-### Project 7: Analyze Behavior of User
+### Project 7: Discover Analyze Behavior of User
 - **Description:** Discover User Behavior From Traffic Channels by using Python on GoogleColab to evaluate and analyze behavior of user for Financial and Stock company.
 - **Technologies:** Python, GoogleColab
   
