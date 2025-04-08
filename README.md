@@ -10,44 +10,44 @@ Gmail:  [vothanh023@gmail.com](mailto:vothanh023@gmail.com)
 
 ## Featured Projects
 
-### Project 1: Global Superstore Sales
+### Project 1: Global Superstore Sales - a world sales company| Power BI
 - **Description:** Senior manager wants to grasp information about the company's business situation to devise a market expansion strategy and decide on strategic product selection.
 - **Technologies:** Power BI
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Global-Superstore-Sales)](https://github.com/theng23/Global-Superstore-Sales)
 
 
-### Project 2: Purchasing
+### Project 2: Purchasing - a fictitious bicycle manufacturer| Power BI
 - **Description:** The management expects that the goods ordered are sufficient for sales, on time, and at optimal import prices.
 - **Technologies:** Power BI
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Purchasing)](https://github.com/theng23/Purchasing)
 
-### Project 3: Ecommerce-Project
+### Project 3: Ecommerce-Project - eCommerce Website Activity Analysis | BigQuery, SQL
 - **Description:** An in-depth analysis of sales data using SQL base on BigQuery to write and execute queries to find the desired data
 - **Technologies:** SQL, BigQuery
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Ecommerce-Project)](https://github.com/theng23/Ecommerce-Project)
 
-### Project 4: Phone Sales
+### Project 4: Phone Sales - Phone Store |Big Querry, SQL
 - **Description:** In-depth analysis of sales data of product and accessory brands by querying in SQL.
 - **Technologies:** SQL
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Phone_Sales)](https://github.com/theng23/Phone_Sales)
 
-### Project 5: RFM-Customer-Segmentation
+### Project 5: RFM-Customer-Segmentation - a global retail companyl | Python, Google Colab
 - **Description:** Utilize the RFM model to segment customers and propose marketing campaigns.
 - **Technologies:** Python, GoogleColab
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=RFM-Customer-Segmentation)](https://github.com/theng23/RFM-Customer-Segmentation)
 
-### Project 6: Data_Wrangling
+### Project 6: Data_Wrangling - Ewallet company | Python, GoogleColab
 - **Description:** Utilize the Python to analyze context of Ewallet.
 - **Technologies:** Python, GoogleColab
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Data_Wrangling)](https://github.com/theng23/Data_Wrangling)
 
-### Project 7: Discover Analyze Behavior of User
+### Project 7: Discover Analyze Behavior of User - Financial and Stock company| Python, GoogleColab
 - **Description:** Discover User Behavior From Traffic Channels by using Python on GoogleColab to evaluate and analyze behavior of user for Financial and Stock company.
 - **Technologies:** Python, GoogleColab
   
