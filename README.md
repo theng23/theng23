@@ -52,7 +52,7 @@ Gmail:  [vothanh023@gmail.com](mailto:vothanh023@gmail.com)
 - **Description:** Discover user behavior from traffic channels using Python on GoogleColab to evaluate and analyze user behavior for financial and stock companies.
 - **Technologies:** Python, GoogleColab
 
-[![Repo Badge](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Analyze-Financial-Behavior-Analysis)](https://github.com/theng23/Analyze-Financial-Behavior-Analysis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Financial-Behavior-Analysis)](https://github.com/theng23/Financial-Behavior-Analysis)
 
 <!--
 ### Project 7: Financial Behavior Analysis | Python, GoogleColab
