@@ -47,11 +47,19 @@ Gmail:  [vothanh023@gmail.com](mailto:vothanh023@gmail.com)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Data-Wrangling-Ewallet)](https://github.com/theng23/Data-Wrangling-Ewallet)
 
-### Project 7: Analyze Financial Behavior Analysis| Python, GoogleColab
-- **Description:** Discover User Behavior From Traffic Channels by using Python on GoogleColab to evaluate and analyze behavior of user for Financial and Stock company.
+### Project 7: Financial Behavior Analysis | Python, GoogleColab
+
+- **Description:** Discover user behavior from traffic channels using Python on GoogleColab to evaluate and analyze user behavior for financial and stock companies.
 - **Technologies:** Python, GoogleColab
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Analyze-Financial-Behavior-Analysis)](https://github.com/theng23/Analyze-Financial-Behavior-Analysis)  
+[![Repo Badge](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Analyze-Financial-Behavior-Analysis)](https://github.com/theng23/Analyze-Financial-Behavior-Analysis)
+
+<!--
+### Project 7: Financial Behavior Analysis | Python, GoogleColab
+- **Description:** Discover user behavior from traffic channels using Python on GoogleColab to evaluate and analyze user behavior for financial and stock companies.
+- **Technologies:** Python, GoogleColab
+- **Repository Link:** [Analyze-Financial-Behavior-Analysis](https://github.com/theng23/Analyze-Financial-Behavior-Analysis)
+-->
 
 <!--
 ### Project 2: Web Development with React
