@@ -14,7 +14,7 @@ Gmail:  [vothanh023@gmail.com](mailto:vothanh023@gmail.com)
 - **Description:** Senior manager wants to grasp information about the company's business situation to devise a market expansion strategy and decide on strategic product selection.
 - **Technologies:** Power BI
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Global-Salse-Dashboard)](https://github.com/theng23/Global-Salse-Dashboard)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Global-Store-Sales-Analysis-Power-Bi)](https://github.com/theng23/Global-Store-Sales-Analysis-Power-Bi)
 
 
 ### Project 2: Purchasing Bicycle Dashboard| Power BI
