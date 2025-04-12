@@ -4,9 +4,7 @@
 My name is Vo Ngoc Thanh. I graduated from Ton Duc Thang University, majoring in Mathematics Applied. I am interested in Database and find the value from there. There are some kind of topic I following topics:
 ## 📫 How to reach me:
 
-[<img src="https://github.com/user-attachments/assets/9a7d2769-e950-4680-b1ba-f96968251a1e" width="125" height="100" alt="Report Builder">)](mailto:vothanh023@gmail.com)
-
-
+[<img src="https://github.com/user-attachments/assets/9a7d2769-e950-4680-b1ba-f96968251a1e" width="125" height="100" alt="Report Builder">](mailto:vothanh023@gmail.com)
 
 
 ## Tools
