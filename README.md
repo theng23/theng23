@@ -29,6 +29,7 @@ Gmail:  [vothanh023@gmail.com](mailto:vothanh023@gmail.com)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=E-commerce-Website-Performance-Analysis-SQL)](https://github.com/theng23/E-commerce-Website-Performance-Analysis-SQL)
 
+
 ### Project 4: Phone Sales Analyze |Big Querry, SQL
 - **Description:** In-depth analysis of sales data of product and accessory brands by querying in SQL.
 - **Technologies:** SQL
