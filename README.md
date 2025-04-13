@@ -4,15 +4,15 @@
 My name is Vo Ngoc Thanh. I graduated from Ton Duc Thang University, majoring in Mathematics Applied. I am interested in Database and find the value from there. There are some kind of topic I following topics:
 ## 📫 How to reach me:
 
-[<img src="https://github.com/user-attachments/assets/9a7d2769-e950-4680-b1ba-f96968251a1e" width="125" height="100" alt="Report Builder">](mailto:vothanh023@gmail.com)
+[<img src="https://github.com/user-attachments/assets/9a7d2769-e950-4680-b1ba-f96968251a1e" width="125" height="125" alt="Report Builder">](mailto:vothanh023@gmail.com)
 
 
 ## ⚒️Tools
-<img src="https://github.com/user-attachments/assets/d591694d-bc6a-4e50-b933-c864d84c7121" width="100" height="100" alt="Report Builder"> 
+<img src="https://github.com/user-attachments/assets/d591694d-bc6a-4e50-b933-c864d84c7121" width="75" height="75" alt="Report Builder"> 
 
-<img src="https://github.com/user-attachments/assets/fc88be57-6e27-42e1-826c-d100cc3918c2" width="100" height="100" alt="Report Builder">
+<img src="https://github.com/user-attachments/assets/fc88be57-6e27-42e1-826c-d100cc3918c2" width="75" height="75" alt="Report Builder">
 
-<img src="https://github.com/user-attachments/assets/666620dc-f697-41c8-974d-b5d43f52fe7b" width="100" height="100" alt="Report Builder">
+<img src="https://github.com/user-attachments/assets/666620dc-f697-41c8-974d-b5d43f52fe7b" width="75" height="75" alt="Report Builder">
 
 
 
