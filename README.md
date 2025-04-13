@@ -31,7 +31,7 @@ My name is Vo Ngoc Thanh. I graduated from Ton Duc Thang University, majoring in
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Purchasing-Bicycle-Dashboard)](https://github.com/theng23/Purchasing-Bicycle-Dashboard)
 
-### 📜Project 3: E-commerce Website Performance Analysis  | BigQuery, SQL
+### 📜Project 3: E-commerce Website Performance Analysis SQL  | BigQuery, SQL
 - **Description:** An in-depth analysis of sales data using SQL base on BigQuery to write and execute queries to find the desired data
 - **Technologies:** SQL, BigQuery
 
