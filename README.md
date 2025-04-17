@@ -44,11 +44,11 @@ My name is Vo Ngoc Thanh. I graduated from Ton Duc Thang University, majoring in
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Phone-Sales-Analyze)](https://github.com/theng23/Phone-Sales-Analyze)
 
-### 📜Project 5: RFM Segmentation Analysis | Python, Google Colab
+### 📜Project 5: Analyze Global Retail Company RFM Customer Segmentation | Python, Google Colab
 - **Description:** Utilize the RFM model to segment customers and propose marketing campaigns.
 - **Technologies:** Python, GoogleColab
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=RFM-Segmentation-Analysis)](https://github.com/theng23/RFM-Segmentation-Analysis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Analyze-Global-Retail-Company-RFM-Customer-Segmentation-Python)](https://github.com/theng23/Analyze-Global-Retail-Company-RFM-Customer-Segmentation-Python)
 
 ### 📜Project 6: Data Wrangling Ewallet| Python, GoogleColab
 - **Description:** Utilize the Python to analyze context of Ewallet.
