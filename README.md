@@ -18,7 +18,7 @@ My name is Vo Ngoc Thanh. I graduated from Ton Duc Thang University, majoring in
 
 ## 📝 Featured Projects
 
-### 📜Project 1: Global Salse Dashboard| Power BI
+### 📜Project 1: Global Store Sales Analysis| Power BI
 - **Description:** Senior manager wants to grasp information about the company's business situation to devise a market expansion strategy and decide on strategic product selection.
 - **Technologies:** Power BI
 
