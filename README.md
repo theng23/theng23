@@ -38,11 +38,11 @@ My name is Vo Ngoc Thanh. I graduated from Ton Duc Thang University, majoring in
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=E-commerce-Website-Performance-Analysis-SQL)](https://github.com/theng23/E-commerce-Website-Performance-Analysis-SQL)
 
 
-### 📜Project 4: Phone Sales Analyze |Big Querry, SQL
+### 📜Project 4: Analyze-Revenue-Phone-Sales-Store-SQL |Big Querry, SQL
 - **Description:** In-depth analysis of sales data of product and accessory brands by querying in SQL.
 - **Technologies:** SQL
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Phone-Sales-Analyze)](https://github.com/theng23/Phone-Sales-Analyze)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Analyze-Revenue-Phone-Sales-Store-SQL)](https://github.com/theng23/Analyze-Revenue-Phone-Sales-Store-SQL)
 
 ### 📜Project 5: Analyze Global Retail Company RFM Customer Segmentation | Python, Google Colab
 - **Description:** Utilize the RFM model to segment customers and propose marketing campaigns.
