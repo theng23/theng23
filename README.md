@@ -50,11 +50,11 @@ My name is Vo Ngoc Thanh. I graduated from Ton Duc Thang University, majoring in
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Analyze-Global-Retail-Company-RFM-Customer-Segmentation-Python)](https://github.com/theng23/Analyze-Global-Retail-Company-RFM-Customer-Segmentation-Python)
 
-### 📜Project 6: Data Wrangling Ewallet| Python, GoogleColab
+### 📜Project 6:Analyze E-Wallet Company| Python, GoogleColab
 - **Description:** Utilize the Python to analyze context of Ewallet.
 - **Technologies:** Python, GoogleColab
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Data-Wrangling-Ewallet)](https://github.com/theng23/Data-Wrangling-Ewallet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Analyze-E-Wallet-Company-Python)](https://github.com/theng23/Analyze-E-Wallet-Company-Python)
 
 ### 📜Project 7: Financial Behavior Analysis | Python, GoogleColab
 
