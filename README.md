@@ -19,11 +19,11 @@ My name is Vo Ngoc Thanh. I graduated from Ton Duc Thang University, majoring in
 
 ## 📝 Featured Projects
 
-### 📜Project 1: Global Store Sales Analysis| Power BI
+### 📜Project 1:  Retail Store Sales Analysis| Power BI
 - **Description:** Senior manager wants to grasp information about the company's business situation to devise a market expansion strategy and decide on strategic product selection.
 - **Technologies:** Power BI
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Global-Store-Sales-Analysis-Power-Bi)](https://github.com/theng23/Global-Store-Sales-Analysis-Power-Bi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Retail-Store-Sales-Analysis-Power-Bi)](https://github.com/theng23/Retail-Store-Sales-Analysis-Power-Bi)
 
 
 ### 📜Project 2: Purchasing Bicycle Dashboard| Power BI
