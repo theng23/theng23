@@ -30,7 +30,7 @@ My name is Vo Ngoc Thanh. I graduated from Ton Duc Thang University, majoring in
 - **Description:** The management expects that the goods ordered are sufficient for sales, on time, and at optimal import prices.
 - **Technologies:** Power BI
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Bicycle-Manufacturing-Purchasing-Performance-Tracking-PowerB)](https://github.com/theng23/Bicycle-Manufacturing-Purchasing-Performance-Tracking-PowerBI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Bicycle-Manufacturing-Purchasing-Performance-Tracking-PowerBi)](https://github.com/theng23/Bicycle-Manufacturing-Purchasing-Performance-Tracking-PowerBI)
 
 ### 📜Project 3: E-commerce Website Performance Analysis SQL  | BigQuery, SQL
 - **Description:** An in-depth analysis of sales data using SQL base on BigQuery to write and execute queries to find the desired data
