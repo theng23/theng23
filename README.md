@@ -19,45 +19,52 @@ My name is Vo Ngoc Thanh. I graduated from Ton Duc Thang University, majoring in
 
 ## 📝 Featured Projects
 
-### 📜Project 1:  Retail Store Sales Analysis| Power BI
+### 📜Project 1: Manufacturing LeadTime Analytics | Python, Pyspar, PowerBi
+
+- **Description:** An end-to-end data analytics project focused on manufacturing lead time analysis.
+- **Technologies:** Python, Microsoft Fabric, Power Bi
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Manufacturing_LeadTime_Analytics)](https://github.com/theng23/Manufacturing_LeadTime_Analytics)
+
+### 📜Project 2:  Retail Store Sales Analysis| Power BI
 - **Description:** Senior manager wants to grasp information about the company's business situation to devise a market expansion strategy and decide on strategic product selection.
 - **Technologies:** Power BI
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Retail-Store-Sales-Analysis-Power-Bi)](https://github.com/theng23/Retail-Store-Sales-Analysis-Power-Bi)
 
 
-### 📜Project 2: Purchasing Bicycle Dashboard| Power BI
+### 📜Project 3: Purchasing Bicycle Dashboard| Power BI
 - **Description:** The management expects that the goods ordered are sufficient for sales, on time, and at optimal import prices.
 - **Technologies:** Power BI
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Bicycle-Manufacturing-Purchasing-Performance-Tracking-PowerBi)](https://github.com/theng23/Bicycle-Manufacturing-Purchasing-Performance-Tracking-PowerBI)
 
-### 📜Project 3: E-commerce Website Performance Analysis SQL  | BigQuery, SQL
+### 📜Project 4: E-commerce Website Performance Analysis SQL  | BigQuery, SQL
 - **Description:** An in-depth analysis of sales data using SQL base on BigQuery to write and execute queries to find the desired data
 - **Technologies:** SQL, BigQuery
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=E-commerce-Website-Performance-Analysis-SQL)](https://github.com/theng23/E-commerce-Website-Performance-Analysis-SQL)
 
 
-### 📜Project 4: Analyze Revenue Phone Sales Store| Big Querry, SQL
+### 📜Project 5: Analyze Revenue Phone Sales Store| Big Querry, SQL
 - **Description:** In-depth analysis of sales data of product and accessory brands by querying in SQL.
 - **Technologies:** SQL
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Analyze-Revenue-Phone-Sales-Store-SQL)](https://github.com/theng23/Analyze-Revenue-Phone-Sales-Store-SQL)
 
-### 📜Project 5: Analyze Global Retail Company RFM Customer Segmentation | Python, Google Colab
+### 📜Project 6: Analyze Global Retail Company RFM Customer Segmentation | Python, Google Colab
 - **Description:** Utilize the RFM model to segment customers and propose marketing campaigns.
 - **Technologies:** Python, GoogleColab
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Analyze-Global-Retail-Company-RFM-Customer-Segmentation-Python)](https://github.com/theng23/Analyze-Global-Retail-Company-RFM-Customer-Segmentation-Python)
 
-### 📜Project 6:Analyze E-Wallet Company| Python, GoogleColab
+### 📜Project 7:Analyze E-Wallet Company| Python, GoogleColab
 - **Description:** Utilize the Python to analyze context of Ewallet.
 - **Technologies:** Python, GoogleColab
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Analyze-E-Wallet-Company-Python)](https://github.com/theng23/Analyze-E-Wallet-Company-Python)
 
-### 📜Project 7: Financial Behavior Analysis | Python, GoogleColab
+### 📜Project 8: Financial Behavior Analysis | Python, GoogleColab
 
 - **Description:** Discover user behavior from traffic channels using Python on GoogleColab to evaluate and analyze user behavior for financial and stock companies.
 - **Technologies:** Python, GoogleColab
