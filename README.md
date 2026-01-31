@@ -24,7 +24,7 @@ My name is Vo Ngoc Thanh. I’m deeply passionate about data engineering and the
 - **Description:** An end-to-end data analytics project focused on manufacturing lead time analysis.
 - **Technologies:** Python, Microsoft Fabric
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Manufacturing-LeadTime-Analytics&v=3)](https://github.com/theng23/Manufacturing-LeadTime-Analytics)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theng23&repo=Manufacturing-LeadTime-Analytics)](https://github.com/theng23/Manufacturing-LeadTime-Analytics)
 
 
 ### 📜Project 2:  Retail Store Sales Analysis| Power BI
