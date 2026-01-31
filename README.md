@@ -1,10 +1,10 @@
 
 # WELCOME TO MY PAGE <img src="https://github.com/user-attachments/assets/18de200d-2101-4bc2-97ee-8a8534c850ce" width="25" height="25" alt="GIF"> <img src="https://github.com/user-attachments/assets/18de200d-2101-4bc2-97ee-8a8534c850ce" width="25" height="25" alt="GIF"> <img src="https://github.com/user-attachments/assets/18de200d-2101-4bc2-97ee-8a8534c850ce" width="25" height="25" alt="GIF">
 
-My name is Vo Ngoc Thanh. I graduated from Ton Duc Thang University, majoring in Mathematics Applied. I am interested in Database and find the value from there. There are some kind of topic I following topics:
+My name is Vo Ngoc Thanh. I’m deeply passionate about data engineering and the craft of building scalable analytics platforms. I enjoy working with Lakehouse architectures to turn complex operational data into clear insights and real-time metrics that support business decision-making. There are some kind of topic I following topics:
 ## 📫 How to reach me:
 
-[<img src="https://github.com/user-attachments/assets/9a7d2769-e950-4680-b1ba-f96968251a1e" width="125" height="125" alt="Report Builder">](mailto:job.vongocthanh@gmail.com) [<img src="https://github.com/user-attachments/assets/2586ed64-a931-4474-936c-61677ded27a1" width="125" height="125" alt="LinkedIn Profile">](https://www.linkedin.com/in/NgocThanhDA23/)
+[<img src="https://github.com/user-attachments/assets/9a7d2769-e950-4680-b1ba-f96968251a1e" width="125" height="125" alt="Report Builder">](mailto:job.vongocthanh@gmail.com) [<img src="https://github.com/user-attachments/assets/2586ed64-a931-4474-936c-61677ded27a1" width="125" height="125" alt="LinkedIn Profile">](https://www.linkedin.com/in/ngocthanhda23/)
 
 
 
